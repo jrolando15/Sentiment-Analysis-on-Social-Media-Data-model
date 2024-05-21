@@ -1,6 +1,6 @@
 #Sentiment Analysis on Twitter Data
 
-##Project Description
+# Project Description
 This project performs sentiment analysis on the Sentiment140 dataset, which contains 1.6 million tweets labeled as positive, negative, or neutral. The goal is to classify tweets as either positive or negative using various machine learning techniques.
 
 
